@@ -12,8 +12,6 @@
 #	*support cookie
 #
 # Date: 2012-12-14
-#
-# Author: xingqi@cisco.com
 
 # TODO:
 #support keep-alive? 

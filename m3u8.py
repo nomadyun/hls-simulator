@@ -5,8 +5,6 @@
 # Version: 0.3
 #
 # Date: 2012-12-14
-#
-# Author: xingqi@cisco.com
 
 import re
 
